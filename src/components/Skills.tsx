@@ -4,11 +4,12 @@ import { Code, Database, BarChart3, Award } from "lucide-react";
 
 const Skills = () => {
   const technicalSkills = {
-    programmingLanguages: [
+    Programming Languages: [
       "Python",
       "PHP", 
       "JavaScript",
-      "Node.js"
+      "Node.js",
+      "R Programming"
     ],
     frameworks: [
       "Angular",
