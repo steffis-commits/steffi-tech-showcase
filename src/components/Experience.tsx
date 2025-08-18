@@ -16,12 +16,12 @@ const Experience = () => {
         "Data Analytics using Python", 
         "Data Visualization",
         "Python Programming",
-        "Digital Nurture"
+        "Digital Nurture",
       ]
     },
     {
-      position: "Head of Department (HOD)",
-      organization: "St. Judes School and Polytechnic College",
+      position: "Former Head of Department (HOD)",
+      organization: "St.Judes Polytechnic College",
       location: "Tholayavattam, Kanyakumari District",
       duration: "02.07.2012 to 30.09.2014", 
       period: "2 years and 2 months",
