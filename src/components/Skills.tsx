@@ -9,6 +9,7 @@ const Skills = () => {
       "PHP", 
       "JavaScript",
       "Node.js"
+      "R Programming"
     ],
     frameworks: [
       "Angular",
@@ -26,7 +27,8 @@ const Skills = () => {
       "Data Analytics using Python",
       "Data Visualization",
       "Digital Nurture",
-      "Medical Image Processing"
+      "Medical Image Processing",
+      "Hadoop"
     ]
   };
 
