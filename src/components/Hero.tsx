@@ -11,7 +11,7 @@ const Hero = () => {
             Er. S. STEFFI
           </h1>
           <p className="text-xl md:text-2xl text-primary-foreground/90 mb-2">
-            M.E, MBA, (Ph.D)
+            B.E,M.E, MBA, (Ph.D)
           </p>
           <p className="text-lg text-primary-foreground/80">
             Computer Science Engineer & Research Scholar
