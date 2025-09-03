@@ -14,6 +14,7 @@ const Navigation = () => {
     { name: "Skills", href: "#skills", icon: Code },
     { name: "Roadmap", href: "#roadmap", icon: Target },
     { name: "Contact", href: "#contact", icon: Phone },
+    { name: "drone", href: "#drone", icon: drone },
   ];
 
   const scrollToSection = (href: string) => {
