@@ -7,12 +7,16 @@ import Research from "@/components/Research";
 import Skills from "@/components/Skills";
 import Roadmap from "@/components/Roadmap";
 import Footer from "@/components/Footer";
+import drone from "@/components/drone";
 
 const Index = () => {
   return (
     <div className="min-h-screen bg-background">
       <Navigation />
       <main>
+        <section id="drone">
+          <drone />
+        </section>
         <section id="hero">
           <Hero />
         </section>
