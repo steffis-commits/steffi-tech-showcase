@@ -62,7 +62,13 @@ const Footer = () => {
           <p className="text-primary-foreground/80 leading-relaxed mb-6 max-w-4xl mx-auto">
             Computer Science Engineer with M.E, MBA, and pursuing Ph.D. in Medical Image Processing. 
             International academic experience with expertise in web development, data analytics, and AI research. 
-            Committed to advancing healthcare technology through innovative research and education.
+            Committed to advancing healthcare technology through innovative research and education. S. Steffi Anna University,
+            located in Tamil Nadu,awarded S. Steffi a Bachelor of Computer Science and Engineering in 2011, and a Master of 
+            Computer Science and Engineering in 2014. She was formerly a lecturer at Malawi’s DMI-St. John the Baptist
+            University, and has completed Alagappa University’s Master of Business Administration program. Currently, she is 
+            working on a research project which is affiliated with Manonmaniam Sundaranar University in Abishekapatti, 
+            Tamil Nadu. Her registration number is 20213112272024 and medical image processing is one of her areas of study.
+            Moreover She is a Drone Pilot.
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
