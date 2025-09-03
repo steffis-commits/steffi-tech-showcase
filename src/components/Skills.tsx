@@ -10,7 +10,7 @@ const Skills = () => {
       "JavaScript",
       "Node.js",
       "R Programming"
-      "Hadoop"
+      "Hadoop "
     ],
     frameworks: [
       "Angular",
