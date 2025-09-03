@@ -68,7 +68,7 @@ const Footer = () => {
             University, and has completed Alagappa University’s Master of Business Administration program. Currently, she is 
             working on a research project which is affiliated with Manonmaniam Sundaranar University in Abishekapatti, 
             Tamil Nadu. Her registration number is 20213112272024 and medical image processing is one of her areas of study.
-            Moreover She is a Drone Pilot.
+            She is a Drone Pilot .
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
