@@ -11,10 +11,10 @@ const Hero = () => {
             Er. S. STEFFI
           </h1>
           <p className="text-xl md:text-2xl text-primary-foreground/90 mb-2">
-            B.E,M.E, MBA, (Ph.D)
+            B.E., M.E, MBA, (Ph.D), Drone Pilot
           </p>
           <p className="text-lg text-primary-foreground/80">
-            Computer Science Engineer & Research Scholar
+            Computer Science Engineer & Research Scholar & Drone Pilot
           </p>
         </div>
 
