@@ -8,7 +8,9 @@ const Skills = () => {
       "Python",
       "PHP", 
       "JavaScript",
-      "Node.js"
+      "Node.js",
+      "R Programming"
+      "Hadoop"
     ],
     frameworks: [
       "Angular",
@@ -18,7 +20,8 @@ const Skills = () => {
     dataVisualization: [
       "Tableau",
       "Python Visualization Libraries",
-      "Data Analytics"
+      "Data Analytics",
+      "Power BI"
     ],
     specializations: [
       "Web Development",
